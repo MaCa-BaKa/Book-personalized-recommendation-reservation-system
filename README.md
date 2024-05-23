@@ -1,4 +1,4 @@
-![图书推荐15](https://github.com/MaCa-BaKa/Book-personalized-recommendation-reservation-system/assets/102128690/9b4b6a22-504c-43b1-867a-4819d01fea99)![图书推荐12](https://github.com/MaCa-BaKa/Book-personalized-recommendation-reservation-system/assets/102128690/bfa35021-c2d9-4052-a85f-a4ffc47083df)# 图书个性化推荐预约系统
+# 图书个性化推荐预约系统
 
 **技术栈:**
 技术

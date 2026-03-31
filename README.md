@@ -1,5 +1,7 @@
-# 01
-# 图书个性化推荐预约系统
+# 01-图书个性化推荐预约系统
+
+[文档地址](http://wechat.zjrcsy.cn/)
+
 **技术栈:**
 技术
 前端技术：HTML、CSS、JS、Vue
@@ -78,10 +80,7 @@ jdk：8.0
 ![图书推荐14](https://github.com/MaCa-BaKa/Book-personalized-recommendation-reservation-system/assets/102128690/3151d8fb-3e65-40bc-9204-e4c8668f60d4)
 ![图书推荐15](https://github.com/MaCa-BaKa/Book-personalized-recommendation-reservation-system/assets/102128690/98cb4cb8-5555-4e7d-8282-d98c4f1c78dc)
 
-**
-
-# 需要本系统联系vx: MaKaBaca0
-**
+[文档地址](http://wechat.zjrcsy.cn/)
 
 
 
